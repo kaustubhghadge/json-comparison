@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Movie One",
+        "file1": "one.json",
+        "file2": "two.json",
+        "status": "Different value for genres"
+    },
+    {
+        "title": "Movie Two",
+        "file1": "one.json",
+        "file2": "two.json",
+        "status": "Different value for cast"
+    },
+    {
+        "title": "Movie Three",
+        "file1": "one.json",
+        "file2": "two.json",
+        "status": "Only in one.json"
+    }
+]

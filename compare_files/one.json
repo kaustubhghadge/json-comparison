@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Movie One",
+        "year": 1900,
+        "cast": ["John Doe", "Jane Doe"],
+        "genres": ["Western"]
+    },
+    {
+        "title": "Movie Two",
+        "year": 1901,
+        "cast": ["John Doe"],
+        "genres": ["Crime"]
+    },
+    {
+        "title": "Movie Three",
+        "year": 1901,
+        "genres": []
+    }
+]
